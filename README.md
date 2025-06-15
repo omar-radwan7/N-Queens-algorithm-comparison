@@ -29,9 +29,5 @@ We evaluate each approach based on **solution quality**, **execution time**, and
 - `report/` — IEEE-style LaTeX paper with charts
 - `images/` — Plots and board configurations
 
-## 📄 Paper
-Read the full report (IEEE-style LaTeX):  
-📎 [Overleaf Rebort](https://www.overleaf.com/read/pwqmhgqrykvq#b865e5)
-
 ---
 
