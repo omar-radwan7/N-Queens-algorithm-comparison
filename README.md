@@ -20,7 +20,7 @@ We evaluate each approach based on **solution quality**, **execution time**, and
 | Simulated Annealing | 100          | 29.1          | 92%          |
 | Genetic Algorithm   | 200          | 68.4          | 78%          |
 
-> 📌 Implemented in **Python 3.9** and benchmarked on Intel i7 / 32GB RAM.
+> 📌 Implemented in **Python 3.9** and benchmarked on Intel i7 / 8GB RAM.
 
 ## 📁 Repository Structure
 - `dfs_nqueens.py` — Exhaustive DFS implementation
